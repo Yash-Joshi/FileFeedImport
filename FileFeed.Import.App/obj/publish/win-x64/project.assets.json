@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "YamlDotNet/9.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {}
+        }
+      },
+      "FileFeed.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FileFeed.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileFeed.Models.dll": {}
+        }
+      }
+    },
+    ".NETCoreApp,Version=v3.1/win-x64": {
+      "YamlDotNet/9.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/YamlDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {}
+        }
+      },
+      "FileFeed.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FileFeed.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileFeed.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YamlDotNet/9.1.4": {
+      "sha512": "dVVZVhQxTI4xTNc9YorE+RruBFPPYKP44kMijE6Z5OQQE7zK+SEmh2sPm091CrTYVz1jjIuXKIBm1kFLrlsQJg==",
+      "type": "package",
+      "path": "yamldotnet/9.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "images/yamldotnet.png",
+        "lib/net20/YamlDotNet.dll",
+        "lib/net20/YamlDotNet.xml",
+        "lib/net35-client/YamlDotNet.dll",
+        "lib/net35-client/YamlDotNet.xml",
+        "lib/net35/YamlDotNet.dll",
+        "lib/net35/YamlDotNet.xml",
+        "lib/net45/YamlDotNet.dll",
+        "lib/net45/YamlDotNet.xml",
+        "lib/netstandard1.3/YamlDotNet.dll",
+        "lib/netstandard1.3/YamlDotNet.xml",
+        "lib/netstandard2.1/YamlDotNet.dll",
+        "lib/netstandard2.1/YamlDotNet.xml",
+        "yamldotnet.9.1.4.nupkg.sha512",
+        "yamldotnet.nuspec"
+      ]
+    },
+    "FileFeed.Models/1.0.0": {
+      "type": "project",
+      "path": "../FileFeed.Models/FileFeed.Models.csproj",
+      "msbuildProject": "../FileFeed.Models/FileFeed.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FileFeed.Models >= 1.0.0",
+      "YamlDotNet >= 9.1.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Import.App\\FileFeed.Import.App.csproj",
+      "projectName": "FileFeed.Import.App",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Import.App\\FileFeed.Import.App.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Import.App\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Models\\FileFeed.Models.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Models\\FileFeed.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "YamlDotNet": {
+            "target": "Package",
+            "version": "[9.1.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[3.1.6, 3.1.6]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[3.1.6, 3.1.6]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[3.1.6, 3.1.6]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

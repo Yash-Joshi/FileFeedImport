@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.AssemblyInfo.cs
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Import.App.exe
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Import.App.deps.json
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Import.App.runtimeconfig.json
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Import.App.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Import.App.dll
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Import.App.pdb
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Models.dll
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\bin\Debug\netcoreapp3.1\FileFeed.Models.pdb
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.csproj.CopyComplete
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.dll
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.pdb
+C:\Users\HP\source\repos\FileFeedImport\FileFeed.Import.App\obj\Debug\netcoreapp3.1\FileFeed.Import.App.genruntimeconfig.cache

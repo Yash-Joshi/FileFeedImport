@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/AFdi65HHMx7ij5I4y4fNNcaKFF6SFL7Gou0VB6ekfSubn5mxfkV4CnW/ASkSMn4CUfA5YWJVv7RWPdS7Oo5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Import.App\\FileFeed.Import.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.6\\microsoft.netcore.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.6\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.win-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
