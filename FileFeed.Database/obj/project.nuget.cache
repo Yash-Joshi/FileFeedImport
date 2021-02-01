@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYiSb++96FUFvnHc0Of9grFBFpPKF2MwYQx0WnCtLrk2VV+pcL7jLF2e0+14mRXfiwJoGVMYx2wlWnU9n5Ypqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\FileFeedImport\\FileFeed.Database\\FileFeed.Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
